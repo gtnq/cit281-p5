@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Learning Objectives
 
-You can use the [editor on GitHub](https://github.com/gtnq/cit281-p5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+After completing this project, you will:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain experience working with classes, including class constructors and methods
 
-### Markdown
+Gain experience interpreting existing code to design a new class, including constructor and methods
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain more experience working with code modules
 
-```markdown
-Syntax highlighted code block
+Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
 
-# Header 1
-## Header 2
-### Header 3
+Gain more experience working with Array map() and forEach() methods
 
-- Bulleted
-- List
+Gain experience working with the concept of a gaming loop
 
-1. Numbered
-2. List
+Gain more experience working with objects and arrays
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Overview
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
-### Jekyll Themes
+Important: The reason for offering extra credit for this project is to encourage you to examine and understand the code, and to "dig" in to determine how the code works. With this understanding, you'll better be able to meet the coding requirements to receive the extra credit.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gtnq/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tip: For this project, you are encouraged to set VSCode breakpoints in the module files (e.g. p5-monster.js), even though you'll be starting the execution of the code from p5-js. VSCode will pause on breakpoints in files used by the project.
